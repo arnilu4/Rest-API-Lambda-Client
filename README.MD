@@ -1,0 +1,2 @@
+This is a sample AWS Client project to access the rest api and other services deployed as Lambda functions.
+To execute add the profile in your credentials file. credential file with profile 'loanLambda' is in the resource folder.
